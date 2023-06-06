@@ -6,6 +6,7 @@
  *
  */
 
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto+Condensed&display=swap');
 :root {
   --qwik-dark-blue: #006ce9;
   --qwik-light-blue: #18b6f6;
